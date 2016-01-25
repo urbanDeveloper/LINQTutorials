@@ -1,0 +1,6 @@
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\ProjecttionOperators\ProjecttionOperators\bin\Debug\ProjecttionOperators.exe.config
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\ProjecttionOperators\ProjecttionOperators\obj\Debug\ProjecttionOperators.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\ProjecttionOperators\ProjecttionOperators\bin\Debug\ProjecttionOperators.exe
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\ProjecttionOperators\ProjecttionOperators\bin\Debug\ProjecttionOperators.pdb
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\ProjecttionOperators\ProjecttionOperators\obj\Debug\ProjecttionOperators.exe
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\ProjecttionOperators\ProjecttionOperators\obj\Debug\ProjecttionOperators.pdb

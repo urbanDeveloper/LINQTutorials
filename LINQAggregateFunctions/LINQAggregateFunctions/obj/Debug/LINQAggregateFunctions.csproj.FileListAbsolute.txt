@@ -1,0 +1,6 @@
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\LINQAggregateFunctions\LINQAggregateFunctions\bin\Debug\LINQAggregateFunctions.exe.config
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\LINQAggregateFunctions\LINQAggregateFunctions\bin\Debug\LINQAggregateFunctions.exe
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\LINQAggregateFunctions\LINQAggregateFunctions\bin\Debug\LINQAggregateFunctions.pdb
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\LINQAggregateFunctions\LINQAggregateFunctions\obj\Debug\LINQAggregateFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\LINQAggregateFunctions\LINQAggregateFunctions\obj\Debug\LINQAggregateFunctions.exe
+C:\Users\Sunny\Documents\Visual Studio 2015\Projects\LINQ Tutorial\LINQAggregateFunctions\LINQAggregateFunctions\obj\Debug\LINQAggregateFunctions.pdb
